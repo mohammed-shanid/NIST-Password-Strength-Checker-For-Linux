@@ -7,7 +7,6 @@ NIST Password Strength Checker (Linux)
 
 Identify weak passwords fast: NIST-inspired strength scoring, dictionary attack detection, and human-readable crack-time estimates. Perfect for demos, training, and security awareness.
 
-<p align="center"> <img src="demo_image.png" alt="Demo Screenshot" width="720"> </p>
 ✨ Features
 
 Dictionary check – flags passwords found in a common-password list (ships with top-100 sample; swap in your own wordlist for realism).
@@ -114,6 +113,7 @@ MIT © Mohammed Shanid
 
 Mohammed Shanid
 GitHub: @mohammed-shanid
+
 LinkedIn: linkedin.com/in/mohammed-shanid-785563262
 
 ⭐ If this saved you time, consider starring the repo!
